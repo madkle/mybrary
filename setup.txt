@@ -1,0 +1,5 @@
+npm init
+npm i express ejs express-ejs-layouts mongoose body-parser
+npm i --save-dev nodemon 
+npm i --save-dev dotenv
+npm run devStart
